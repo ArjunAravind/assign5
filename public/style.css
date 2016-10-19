@@ -1,0 +1,38 @@
+.wrapper{
+	width: 100%;
+	background: lemonchiffon;
+	padding-bottom: 30px;
+}
+.cover{
+	width: 100%;
+}
+h1{
+	font-family: helvetica;
+	font-size: 30px;
+	text-align: center;
+	color: darkgreen;
+}
+ul li{
+	list-style-type: none;
+	text-align: center;
+	font-family: helvetica;
+	font-size: 20px;
+	display: inline;
+}
+ul li a{
+	text-decoration: none;
+	cursor: pointer;
+	color: blue;
+	margin-right: 40px;
+}
+fieldset{
+	border: 0;
+}
+form{
+	text-align: center;
+	padding: 20px;
+}
+label{
+	text-decoration: none;
+	color: blue;
+}
